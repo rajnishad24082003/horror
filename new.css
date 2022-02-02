@@ -1,0 +1,218 @@
+*
+{
+    margin: 0;
+    padding:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.toplist nav ul li img
+{
+    width: 80px;
+
+}
+.toplist nav ul li 
+{
+    list-style: none;
+    color: azure;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.toplist nav ul
+{
+display: flex;
+align-items: center;
+}
+.toplist
+{
+    background-color:rgb(35, 47, 63);
+    height: 64px;
+
+}
+.toplist nav ul li:hover
+{
+    border:white solid 1px;
+}
+.search
+{
+    width: 520px;
+    height: 33px;
+}
+body div nav ul li form input
+{
+    border-radius:5px 0px 0px 5px ;
+}
+body div nav ul li form
+{
+    display: flex;
+}
+body div nav ul li form i
+{
+    background-color: rgb(255, 186,101);
+    color: black;
+    font-size: 25px;
+    border-radius: 0px 5px 5px 0px;
+}
+.address
+{
+    display: block;/*in flex the whole thing will be in one line but in block the things will be as you write*/
+    width: 200px;
+}
+.adds{
+    padding-bottom: 5px;
+    padding-left:10px ;
+    padding-right: 6px;
+    font-size: 0.9rem;
+}
+.add{
+    padding-top: 5px;
+    padding-left:25px ;
+    font-size: 0.8rem;
+}
+.udt
+{
+
+}
+.uda
+{
+    padding-top: 5px;
+    padding-left:11px ;
+    font-size: 0.8rem;
+}
+.udb
+{
+    padding-bottom: 5px;
+    padding-left:10px ;
+    padding-right: 6px;
+    font-size: 0.9rem;
+}
+.returns
+{
+    padding-top: 5px;
+    padding-left:11px ;
+    font-size: 0.8rem;
+}
+.orders
+{
+    padding-bottom: 5px;
+    padding-left:10px ;
+    padding-right: 6px;
+    font-size: 0.9rem;
+}
+.cart
+{
+    display: flex;
+    padding: 7px;
+}
+.carts
+{
+    padding-top: 14px;
+}
+.secondtoplist
+{
+    background-color: rgb(55, 67, 83);
+    color: white;
+    height: 39px;
+}
+.secondtoplist nav ul
+{
+
+    display: flex;
+    text-transform: capitalize;
+    font-size: small;
+
+}
+.secondtoplist nav ul li
+{
+    list-style: none;
+    padding: 3px 6px;
+    margin-top: 5px;
+}
+.secondtoplist nav ul li:hover
+{
+    border:white solid 1px;
+}
+.all
+{
+    display: flex;
+}
+.all i{
+    padding-top: 2px;
+}
+.all p
+{
+    padding-left: 5px;
+}
+.prime
+{
+    display: flex;
+}
+.prime i
+{
+    padding-left: 4px;
+    padding-top: 3px;
+}
+.app
+{
+    font-size: medium;
+    display: flex;
+    margin-left: 118px;
+
+}
+.app img 
+{
+    height: 20px;
+}
+
+body
+{
+    background-image: url(670x645_1.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 100% 100%;
+  background-position-y: 85px;
+
+}
+.extras img
+{
+    margin-left: 20px;
+    width: 300px;
+    height: 200px;
+    transform: translateY(300px);
+}
+.extras2
+{
+    margin-top: 50px;
+}
+.fillform form
+{
+
+    border: black solid 2px;
+    background-color: white;
+    width: 300px;
+    height: 412px;
+    transform: translate3d(991px, -160px,10px )
+}
+.fillform form p
+{
+    text-transform: capitalize;
+    padding-top: 56px;
+
+}
+.fillform form input
+{
+    text-transform: capitalize;
+}
+.fillform form button
+{
+    text-transform: capitalize;
+    color:#50698a;
+    background-color: rgb(245, 245, 205);
+    transform: translate3d(125px, 32px, 10px);
+    size: 50px;
+}
+.fillform form h1
+{
+    color: rgb(105, 105, 105);
+    padding-left: 78px;
+
+}
